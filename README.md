@@ -71,11 +71,12 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## 👤 Author
 
-Built with ❤️ by [Robert Parker](https://github.com/rparker122)
+Built by [Robert Parker](https://github.com/rparker122)
 
-```
+
 
 ---
+
 
 
 
